@@ -1,0 +1,104 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.txt
+*.egg
+MANIFEST
+
+# Environments
+.env/
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Log files
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Virtualenv
+.venv
+venv
+*.swp
+*.swo
+
+# Data and models
+data/
+datasets/
+models/
+model/
+weights/
+checkpoints/
+*.csv
+*.tsv
+*.parquet
+*.feather
+*.h5 # HDF5 data or model files
+*.pkl # Pickle files for data or models
+*.joblib # Joblib files for data or models
+*.pb # TensorFlow protobuf files
+*.ckpt # TensorFlow checkpoint files
+saved_model/
+onnx_model/
+tflite_model/
+
+# Temp files
+*.tmp
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+.project
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# Executables
+*.exe
+*.dll
+
+# Documentation
+docs/_build/
+htmlcov/
+*.pdf
+
+# Environment files
+.env
+.flaskenv
+
+# Other
+.history/
+
+Data_set/
